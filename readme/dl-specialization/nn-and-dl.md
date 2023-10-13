@@ -22,7 +22,7 @@ The loss function measures how well the model is doing on the single training ex
 #### Gradient Descent
 
 1. Start calculating the cost and gradient for the given training set of (x,y) with the parameters w and b.
-2. update parameters w and b with pre-set learning rate: w\_new =w\_old – learning\_rate \* gradient\_of\_at(w\_old) Repeat these steps until you reach the minimal values of cost function.![](../../.gitbook/assets/gradient-descent.jpg)
+2. update parameters w and b with pre-set learning rate: **w\_new =w\_old – learning\_rate \* gradient\_of\_at(w\_old)** Repeat these steps until you reach the minimal values of cost function.![](../../.gitbook/assets/gradient-descent.jpg)
 
 #### Vectorization
 
